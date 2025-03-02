@@ -4,7 +4,8 @@ include(
     "object-oriented-design",
     "clean-architecture",
     "readable-code",
-    "object-basic-02-01"
+    "object-basic-02-01",
+    "object-basic-02-04"
 )
 
 pluginManagement {
