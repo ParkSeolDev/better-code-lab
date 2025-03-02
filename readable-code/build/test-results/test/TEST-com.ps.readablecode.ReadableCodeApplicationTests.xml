@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ps.readablecode.ReadableCodeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-02T17:07:51" hostname="MacBook-Air-de-PS.local" time="0.353">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.ps.readablecode.ReadableCodeApplicationTests" time="0.353"/>
+  <system-out><![CDATA[02:07:51.253 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ps.readablecode.ReadableCodeApplicationTests]: ReadableCodeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+02:07:51.295 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ps.readablecode.ReadableCodeApplication for test class com.ps.readablecode.ReadableCodeApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.3)
+
+2025-03-03T02:07:51.455+09:00  INFO 45735 --- [readable-code] [    Test worker] c.p.r.ReadableCodeApplicationTests       : Starting ReadableCodeApplicationTests using Java 17.0.13 with PID 45735 (started by ps in /Users/ps/workspace/CleanCode/better-code-lab/readable-code)
+2025-03-03T02:07:51.456+09:00  INFO 45735 --- [readable-code] [    Test worker] c.p.r.ReadableCodeApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2025-03-03T02:07:51.896+09:00  INFO 45735 --- [readable-code] [    Test worker] c.p.r.ReadableCodeApplicationTests       : Started ReadableCodeApplicationTests in 0.545 seconds (process running for 1.008)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

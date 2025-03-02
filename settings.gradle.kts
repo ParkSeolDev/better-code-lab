@@ -3,7 +3,8 @@ rootProject.name = "better-code-lab"
 include(
     "object-oriented-design",
     "clean-architecture",
-    "readable-code"
+    "readable-code",
+    "object-basic-02-01"
 )
 
 pluginManagement {
